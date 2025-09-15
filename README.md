@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Ganesh Shah
 
 ## 🎓 Web Developer | Game Developer | AI Enthusiast
